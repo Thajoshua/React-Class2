@@ -73,7 +73,7 @@ function LoginPage() {
           className="absolute bottom-14 text-gray-300/60 border-2 border-white/40 w-[8rem] h-[2.5rem] rounded-lg hover:border-white/60 hover:text-gray-300/80"
           onClick={SUBMIT}
         >
-          SUBMIT
+          Submit
         </button>
       </div>
     </div>
